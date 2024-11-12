@@ -1,6 +1,4 @@
 import numpy as np
-import torch
-import time
 import math as m
 import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Polygon
